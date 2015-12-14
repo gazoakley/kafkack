@@ -1,0 +1,25 @@
+{
+  "name": "kafkack",
+  "version": "0.0.1",
+  "description": "Kafka client for node with acknowledgement semantics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gazoakley/kafkack.git"
+  },
+  "keywords": [
+    "kafka"
+  ],
+  "author": "Gareth Oakley <gaz@gazoakley.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gazoakley/kafkack/issues"
+  },
+  "homepage": "https://github.com/gazoakley/kafkack#readme",
+  "dependencies": {
+    "kafka-node": "^0.2.29"
+  }
+}
